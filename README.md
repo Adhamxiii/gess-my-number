@@ -31,7 +31,7 @@ The game runs on all modern web browsers that support HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-You can interact with the project through the live demo available [here](#).
+You can interact with the project through the live demo available [here](https://gess-my-number.vercel.app/).
 
 ## Contribution
 
